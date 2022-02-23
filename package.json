@@ -1,0 +1,13 @@
+{
+  "name": "nodeweb-test",
+  "version": "1.0.0",
+  "description": "basic web server with node js",
+  "author": "https://github.com/anime454",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
